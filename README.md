@@ -5,7 +5,7 @@ Project for CS 3650 at Northeastern University where I created a working Bash-li
 #### Installation Instructions
 
 1. Clone the repository
-2. Run make
+2. Make the makefile
 3. Run the nush executable
 
 The following are example commands supported by the shell:
