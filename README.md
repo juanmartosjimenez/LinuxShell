@@ -6,6 +6,7 @@ Project for CS 3650 at Northeastern University where I created a working Bash-li
 
 1. Clone the repository
 2. Run make
+3. Run the Nush executable
 
 The following are example commands supported by the shell:
 mkdir -p tmp <br />
